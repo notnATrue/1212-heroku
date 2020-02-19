@@ -161,6 +161,9 @@ a {
     background-size: cover;
     background-position: center center; */
 }
+.portfolio_new .logo-image {
+    cursor: pointer;
+}
 .portfolio .container-fluid {
     padding-top: 300px;
     height: 100vh;
